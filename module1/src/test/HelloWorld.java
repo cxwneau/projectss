@@ -46,7 +46,7 @@ public class HelloWorld {
             System.out.println("l = " + l);
             ArrayList<String> strings = new ArrayList<String>();
             if (strings != null && !"".equals(strings)) {
-
+                System.out.println("cxwabc");
             }
         } catch (Exception e) {
             e.printStackTrace();
